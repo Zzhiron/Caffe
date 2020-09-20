@@ -1,0 +1,8 @@
+0.modified opencv version from 2.4.10 to 3.0.0
+1.modified data_transformer.cpp
+2.modified CUDA_POST_KERNEL_CHECK
+3.modified cc architecture：3.5，5.0，5.2
+4.modified pooling layer reshape function add ceil_mode
+（1）hpp，define param
+（2）cpp，get param，use param
+（3）proto，declaration the param
